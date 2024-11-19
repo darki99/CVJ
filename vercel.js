@@ -1,9 +1,0 @@
-{
-    "rewrites"; [
-      {
-        "source": "/about",
-        "destination": "/about.html"
-      }
-    ]
-  }
-  
